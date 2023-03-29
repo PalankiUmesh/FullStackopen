@@ -1,0 +1,4 @@
+.dockerignore
+./redis_data:/data
+.gitignore
+node_modules
